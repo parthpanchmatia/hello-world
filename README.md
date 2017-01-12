@@ -12,3 +12,7 @@ line of code
 
 * Bullet
 * Bullet
+
+```
+another line of code
+```
